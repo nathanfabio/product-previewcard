@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: <a href="">Click here</a>
+- Live Site URL: <a href="https://nathanfabio.github.io/product-previewcard/">Click here</a>
 
 ### Built with
 - HTML5
@@ -25,6 +25,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@nathanfabio](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@nathanfabio](https://www.frontendmentor.io/profile/nathanfabio)
 - Twitter - [@nhfabioo](https://www.twitter.com/nhfabioo)
 - GitHub  -  [@nathanfabio](https://github.com/nathanfabio)
